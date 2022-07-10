@@ -9,6 +9,4 @@ const bgImage = document.createElement("img");
 
 bgImage.src= `${chosenImage}`
 
-console.log(bgImage);
-
 document.body.appendChild(bgImage);
